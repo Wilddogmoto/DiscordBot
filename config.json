@@ -1,0 +1,11 @@
+{
+  "database": {
+    "server": "127.0.0.1:3306",
+    "user": "wild",
+    "password": "777",
+    "db": "discorddb"
+  },
+  "discord": {
+    "token":"OTA3NTMyNTU5ODAwNDkyMDky.YYojjw.7ZT8frUdAHL_33_AHiH2tZPsEFg"
+  }
+}
